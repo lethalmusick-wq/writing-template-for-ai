@@ -88,3 +88,51 @@ Notes for next agent:
 Canon mutation check: PASS — no manuscript canon exists yet.
 
 MEMORY.md update: needed — update with project description once the blueprint is generated.
+
+---
+
+### 2026-11-26 — Claude Code
+
+Task:
+- Author asked for a Hero's Journey premise for a lowborn mage who returns a powerful wizard (physically demanding journey, real setbacks, consequential return).
+
+Selected agent team:
+- academic-narratologist: Hero's Journey mapping
+- academic-psychologist: family/betrayal dynamics; violence and indenture content
+
+Changes made:
+- Added premise draft "Unlettered" as a pre-Stage 1 idea file.
+
+Files touched:
+- ideas/premise-unlettered.md (new)
+- CHANGELOG_AI.md
+
+Commands/tests run:
+```bash
+# none
+```
+
+Results:
+- Premise delivered in chat and saved to file.
+
+Editorial pass:
+- Agents used: narratologist and psychologist lenses
+- Files reviewed: ideas/premise-unlettered.md
+- Issues found and fixed: none outstanding
+- Issues deferred: none
+
+Decisions made:
+- Premise kept outside START_HERE.md; the author decides whether to adopt it.
+
+Known issues:
+- START_HERE.md, MEMORY.md project section, and BOOK_BLUEPRINT.md remain unfilled.
+
+Next recommended steps:
+- If the author adopts this premise, transfer it into START_HERE.md, then generate BOOK_BLUEPRINT.md.
+
+Notes for next agent:
+- The premise is not canon until the author approves it.
+
+Canon mutation check: PASS — no canon exists yet; idea file only.
+
+MEMORY.md update: not needed — premise not yet adopted by author.
